@@ -1,0 +1,529 @@
+*{
+    margin: 0;
+}
+
+.row ul li{
+    list-style: none;
+}
+
+.row ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.row ul{
+    display: flex;
+    justify-self: space-evenly;
+    padding: 10px;
+}
+
+.row ul img{
+    height: 25px;
+    width: 25px;
+}
+
+.link1{
+    color: #2997ff;
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.text1{
+    text-align: center;
+}
+
+.a2{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.text2{
+    font-size: 55px;
+    font-weight: bolder;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+.text3{
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.a3{
+    text-align: center;
+}
+
+.link2,.link3{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.link2:hover{
+    text-decoration: underline;
+}
+
+.link3:hover{
+    text-decoration: underline;
+}
+
+.link2{
+    margin-right: 20px;
+}
+
+.a4{
+    text-align: center;
+    padding: 20px;
+}
+
+.text4{
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    size: 50px;
+}
+
+.a5{
+    text-align: center;
+}
+
+.text5{
+    font-size: 25px;
+    line-height: 1.21053;
+    font-weight: 400;
+    letter-spacing: .012em;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.a6{
+    text-align: center;
+}
+
+.text6{
+    font-size: 19px;
+    color: gray;
+    padding: 15px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.a7{
+    text-align: center;
+}
+
+.link4,.link5{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.link4:hover{
+    text-decoration: underline;
+}
+
+.link5:hover{
+    text-decoration: underline;
+}
+
+.link4{
+    margin-right: 20px;
+}
+
+.a8{
+    text-align: center;
+}
+
+.text7{
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 50px;
+}
+
+.a9
+{
+    text-align: center;
+    padding: 5px;
+}
+
+.text8{
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 25px;
+}
+
+.a10{
+    text-align: center;
+}
+
+.link6,.link7{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.link6{
+    margin-right: 20px;
+}
+
+.link6:hover{
+    text-decoration: underline;
+}
+
+.link7:hover{
+    text-decoration: underline;
+}
+
+.row{
+    background-color: rgb(63, 59, 59);
+}
+
+.xa{
+    text-align: center;
+    transform: translate(0px,220px);
+}
+
+.text9{
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.text10{
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link8{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+}
+
+.link8:hover{
+    text-decoration: underline;
+}
+
+.xb{
+    text-align: center;
+    padding: 20px;
+}
+
+.text11{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 40px;
+}
+
+.text12{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 20px;
+}
+
+.text13{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 10px;
+}
+
+.link9,.link10{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.link9:hover{
+    text-decoration: underline;
+}
+
+.link10:hover{
+    text-decoration: underline;
+}
+
+.link9{
+    margin-right: 20px;
+}
+
+.text14{
+    color: whitesmoke;
+    padding: 10px;
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.text15{
+    color: whitesmoke;
+    padding: 10px;
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link11{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+    margin-right: 20px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link12{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link11:hover{
+    text-decoration: underline;
+}
+
+.link12:hover{
+    text-decoration: underline;
+}
+
+.xc{
+    text-align: center;
+}
+
+.text16{
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: black;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.text17{
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+.xd{
+    text-align: center;
+}
+
+.link13{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+    margin: 20px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link14{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link13:hover{
+    text-decoration: underline;
+}
+
+.link14:hover{
+    text-decoration: underline;
+}
+
+.xe{
+    text-align: center;
+    padding: 40px;
+}
+
+.text18{
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: black;
+    font-size: 40px;
+}
+
+.link15{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 20px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link16{
+    color: #2997ff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 20px;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link15,.link16{
+    padding: 10px;
+}
+
+.link15:hover{
+    text-decoration: underline;
+}
+
+.link16:hover{
+    text-decoration: underline;
+}
+
+.xf{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.text19{
+    color: whitesmoke;
+    font-size: 19px;
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link17{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 18px;
+    font-family:"SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link17:hover{
+    text-decoration: underline;
+}
+
+.xg{
+    margin-left: 260px;
+    margin-top: 70px;
+}
+
+.text20{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 25px;
+}
+
+.xh{
+    margin-left: 480px;
+    margin-top: 50px;
+}
+
+.text21{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 25px;
+}
+
+.xi{
+    margin-left: 260px;
+    margin-top: 50px;
+}
+
+.text22{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+}
+
+.xj{
+    margin-left: 480px;
+    margin-top: 50px;
+}
+
+.text23{
+    color: whitesmoke;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.a11{
+    margin-left: 200px;
+    font-size: 13px;
+    margin-top: 10px;
+    color: gray;
+    font-family: "SF Pro Display", "SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.link18,.link19,.link20{
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+}
+
+.link18:hover{
+    text-decoration: underline;
+}
+
+.link19:hover{
+    text-decoration: underline;
+}
+
+.link20:hover{
+    text-decoration: underline;
+}
+
+.text24{
+    margin-left: 20px;
+}
+
+.a12 ul{
+    list-style: none;
+}
+
+.a12 ul li a:hover{
+    text-decoration: none;
+    color: gray;
+}
+
+.a12 ul li a:hover{
+    text-decoration: underline;
+}
+
+.a13 ul{
+    list-style: none;
+}
+
+.a13 ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+.a13 ul li a:hover{
+    text-decoration: underline;
+}
+
+.a14 ul{
+    list-style: none;
+}
+
+.a14 ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+.a14 ul li a:hover{
+    text-decoration: underline;
+}
+
+.a15 ul{
+    list-style: none
+}
+
+.a15 ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+.a15 ul li a:hover{
+    text-decoration: underline;
+}
+
+.a16 ul{
+    list-style: none;
+}
+
+.a16 ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+.a16 ul li a:hover{
+    text-decoration: underline;
+}
